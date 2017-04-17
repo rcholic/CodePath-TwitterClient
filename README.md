@@ -32,8 +32,8 @@ The following **additional** features are implemented:
 
 To Do:
 ====
-- [x] Place a backdrop/shadow view on the original tweet when the user is composing their reply, this will help them focus on their writing!
-- [x] Add animations to the **Favorite** and **Retweet** buttons in Tweet Detail View, imitating the "popping" effect in the Twitter app
+- [] Place a backdrop/shadow view on the original tweet when the user is composing their reply, this will help them focus on their writing!
+- [] Add animations to the **Favorite** and **Retweet** buttons in Tweet Detail View, imitating the "popping" effect in the Twitter app
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
